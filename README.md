@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **odiloviccc@gmail.com or @odilovicc telegram**
 
-- 🌐 Website - baxti.uz
+- 🌐 Website - https://baxti.uz
 
 - 📄 Know about my experiences [https://t.me/odilovicc_life](https://t.me/odilovicc_life)
 
