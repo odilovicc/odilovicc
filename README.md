@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bakhtiyor</h1>
-<h3 align="center">Middle FrontEnd Developer</h3>
+<h3 align="center">Junior+ FrontEnd Developer</h3>
 
 - 🔭 I’m currently working on **currange**
 
@@ -16,8 +16,6 @@
 - 🌐 Website - https://baxti.uz
 
 - 📄 Know about my experiences [https://t.me/odilovicc_life](https://t.me/odilovicc_life)
-
-- ⚡ Fun fact **I'm open for all people :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
