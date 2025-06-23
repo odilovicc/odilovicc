@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bakhtiyor</h1>
-<h3 align="center">Junior+ FrontEnd Developer</h3>
-
-- 🔭 I’m currently working on **currange**
-
-- 🌱 I’m currently learning **TypeScript**
+<h3 align="center">Middle FrontEnd Developer</h3>
 
 - 👯 I’m looking to collaborate on **starter-kit-vue**
 
