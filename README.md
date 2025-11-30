@@ -8,6 +8,7 @@
 </ul>
 
 <p>Currrently learning: <b>Data Science, ML Engineering</b></p>
+<p>Studying at <a href="https://aut-edu.uz">American University of Technology</a></p>
 <a href="https://baxti.uz">Website</a>
 
 <img align="right" height="150" src="https://imgflip.com/s/meme/Grumpy-Cat.jpg"  />
