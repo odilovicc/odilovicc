@@ -9,7 +9,7 @@
 
 <p>Currrently learning: <b>Data Science, ML Engineering</b></p>
 <p>Studying at <a href="https://aut-edu.uz">American University of Technology</a></p>
-<a href="https://baxti.uz">Website</a>
+<a href="https://baxti.pyramide.uz">Website</a>
 
 <img align="right" height="150" src="https://imgflip.com/s/meme/Grumpy-Cat.jpg"  />
 <a href="https://www.buymeacoffee.com/odilovicc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
