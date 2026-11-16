@@ -2,9 +2,16 @@
 
 ###
 
+<p>Professional Fullstack Developer</p>
+
 <ul>
-  <li><p>Middle Frontend Developer <b>2+ years</b></p></li>
-  <li><p>Junior Laravel Developer</p></li>
+  <li>Nuxt</li>
+  <li>Vue</li>
+  <li>React</li>
+  <li>Docker</li>
+  <li>K8S</li>
+  <li>Laravel</li>
+  <li>Php</li>
 </ul>
 
 <p>Currrently learning: <b>Data Science, ML Engineering</b></p>
